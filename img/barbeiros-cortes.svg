@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <!-- Barbeiros -->
+  <g transform="translate(100, 100)">
+    <rect width="120" height="160" fill="#2d2d2d" rx="10"/>
+    <circle cx="60" cy="50" r="40" fill="#c59d5f"/>
+    <rect x="30" y="100" width="60" height="10" fill="#f4f4f4"/>
+    <rect x="40" y="120" width="40" height="5" fill="#c59d5f"/>
+    <rect x="45" y="135" width="30" height="5" fill="#f4f4f4"/>
+  </g>
+  
+  <g transform="translate(250, 100)">
+    <rect width="120" height="160" fill="#2d2d2d" rx="10"/>
+    <circle cx="60" cy="50" r="40" fill="#c59d5f"/>
+    <rect x="30" y="100" width="60" height="10" fill="#f4f4f4"/>
+    <rect x="40" y="120" width="40" height="5" fill="#c59d5f"/>
+    <rect x="45" y="135" width="30" height="5" fill="#f4f4f4"/>
+  </g>
+  
+  <g transform="translate(400, 100)">
+    <rect width="120" height="160" fill="#2d2d2d" rx="10"/>
+    <circle cx="60" cy="50" r="40" fill="#c59d5f"/>
+    <rect x="30" y="100" width="60" height="10" fill="#f4f4f4"/>
+    <rect x="40" y="120" width="40" height="5" fill="#c59d5f"/>
+    <rect x="45" y="135" width="30" height="5" fill="#f4f4f4"/>
+  </g>
+  
+  <g transform="translate(550, 100)">
+    <rect width="120" height="160" fill="#2d2d2d" rx="10"/>
+    <circle cx="60" cy="50" r="40" fill="#c59d5f"/>
+    <rect x="30" y="100" width="60" height="10" fill="#f4f4f4"/>
+    <rect x="40" y="120" width="40" height="5" fill="#c59d5f"/>
+    <rect x="45" y="135" width="30" height="5" fill="#f4f4f4"/>
+  </g>
+  
+  <!-- Cortes -->
+  <g transform="translate(100, 300)">
+    <rect width="120" height="120" fill="#2d2d2d" rx="10"/>
+    <path d="M30,30 C40,10 80,10 90,30 C100,50 90,80 60,90 C30,80 20,50 30,30 Z" fill="#c59d5f"/>
+  </g>
+  
+  <g transform="translate(250, 300)">
+    <rect width="120" height="120" fill="#2d2d2d" rx="10"/>
+    <path d="M30,30 C40,10 80,10 90,30 C100,50 90,80 60,90 C30,80 20,50 30,30 Z" fill="#c59d5f"/>
+    <path d="M40,40 L80,40 L80,80 L40,80 Z" fill="#2d2d2d"/>
+  </g>
+  
+  <g transform="translate(400, 300)">
+    <rect width="120" height="120" fill="#2d2d2d" rx="10"/>
+    <path d="M30,30 C40,10 80,10 90,30 C100,50 90,80 60,90 C30,80 20,50 30,30 Z" fill="#c59d5f"/>
+    <path d="M50,30 L70,30 L70,90 L50,90 Z" fill="#2d2d2d"/>
+  </g>
+  
+  <g transform="translate(550, 300)">
+    <rect width="120" height="120" fill="#2d2d2d" rx="10"/>
+    <path d="M30,30 C40,10 80,10 90,30 C100,50 90,80 60,90 C30,80 20,50 30,30 Z" fill="#c59d5f"/>
+    <path d="M30,60 L90,60" stroke="#2d2d2d" stroke-width="5"/>
+  </g>
+  
+  <g transform="translate(100, 450)">
+    <rect width="120" height="120" fill="#2d2d2d" rx="10"/>
+    <path d="M40,40 C50,20 70,20 80,40 C90,60 80,90 60,100 C40,90 30,60 40,40 Z" fill="#c59d5f"/>
+    <path d="M50,50 L70,50 L70,90 L50,90 Z" fill="#2d2d2d"/>
+  </g>
+  
+  <g transform="translate(250, 450)">
+    <rect width="120" height="120" fill="#2d2d2d" rx="10"/>
+    <path d="M40,40 C50,20 70,20 80,40 C90,60 80,90 60,100 C40,90 30,60 40,40 Z" fill="#c59d5f"/>
+    <path d="M40,70 L80,70" stroke="#2d2d2d" stroke-width="5"/>
+  </g>
+</svg>
